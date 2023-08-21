@@ -2,7 +2,7 @@
 """
 Created on Fri Feb 15 12:37:40 2019
 
-@author: NB22909
+@author: jvaladas
 """
 
 import sys
